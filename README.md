@@ -11,7 +11,7 @@
 
 ## Tech I use
 - **HDL/Verification:** Verilog, SystemVerilog, UVM  
-- **Simulation Tools:** ModelSim, Synopsys VCS  
+- **EDA Tools:** Cadence,ModelSim,Synopsys,Vivado,LTspice
 - **FPGA Tools:** Xilinx Vivado  
 - **Scripting:** Python,TCL
 - **Version Control:** Git, GitHub  

@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Chandrakiran G 👋
 
-<!--
-**Kiran-VLSI/Kiran-VLSI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently learning: **SystemVerilog** and **UVM**  
+📫 Reach me: gchandrakiran97@gmail.com • [LinkedIn](https://www.linkedin.com/in/chandrakiran-g-409816257)
 
-Here are some ideas to get you started:
+## What I’m up to
+- Designing **UVM testbenches** (agents, drivers, monitors, sequences, scoreboards)  
+- Exploring **SystemVerilog Assertions (SVA)** for functional coverage  
+- Practicing **DSA** for problem-solving & coding interviews  
+- Learning **FPGA prototyping** with Vivado  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I use
+- **HDL/Verification:** Verilog, SystemVerilog, UVM  
+- **Simulation Tools:** ModelSim, Synopsys VCS  
+- **FPGA Tools:** Xilinx Vivado  
+- **Scripting:** Python,TCL
+- **Version Control:** Git, GitHub  
